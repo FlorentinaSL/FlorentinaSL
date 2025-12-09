@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Florentina<3&fontSize=60&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Florentina&fontSize=60&fontColor=fff&animation=twinkling" />
 </p>
 
 <h1 align="center">🤗 Hey, I'm <b>Florentina!</b></h1>
