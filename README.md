@@ -5,14 +5,14 @@
 <h1 align="center">🤗 Hey, I'm <b>Florentina!</b></h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=C%23+Developer+%7C+Plugin+Creator for SCP:SL" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=C%23+Developer+%7C+Plugin+Creator+for+SCP:SL" />
 </p>
 
 
 <h2 align="center">🖥️ Programming Languages I know:</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,cpp,c,python,html,css,,git,bash,dotnet&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,c,python,html,css,git,bash,dotnet&theme=dark" />
 </p>
 
 ---
